@@ -1,6 +1,9 @@
-# simple Data_Scraping
+# Simple Data_Scraping
 
 ## simple Data_Scraping script for scraping data of companies from site.
+
+
+
 ### Install Pandas, b4 and requests libraries if its not already installed,
 ### you can change the location and catagory to your desired choice.
 ### modify the code to use for different sites.
